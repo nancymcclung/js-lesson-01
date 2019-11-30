@@ -2,4 +2,4 @@
 
 JavaScript - Lesson 1
 
-Visit [JS Playground](https://js-playground.razorsites.co) to edit onilne!
+Visit <a href="https://js-playground.razorsites.co" target="_blank">JS Playground</a> to edit onilne!
