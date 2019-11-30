@@ -1,0 +1,20 @@
+{
+  "name": "js-lesson-01",
+  "version": "1.0.0",
+  "description": "JavaScript - Lesson 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Charlie McClung",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nancymcclung/js-lesson-01.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nancymcclung/js-lesson-01/issues"
+  },
+  "homepage": "https://github.com/nancymcclung/js-lesson-01#readme"
+}
